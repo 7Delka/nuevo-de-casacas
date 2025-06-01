@@ -93,13 +93,13 @@ p{
     border-radius: 30px;
 }
 header{
-    background: radial-gradient(#fff,#ffffff);
+    background: radial-gradient(#ffffff,#ffffff);
 }
 header.col{
     margin-top: 70px;
 }
 .more:hover{
-    background: radial-gradient(#f1b6b6,#e4bdbd);
+    background: radial-gradient(#0206e5,#3769ff);
 }
 .categorias{
     margin: 70px 0;
@@ -139,7 +139,7 @@ header.col{
 }
 .titu::after{
     content:'';
-    background: #cb9191;
+    background: #0808bd;
     width: 80px;
     height: 5px;
     border-radius: 5px;
@@ -229,15 +229,15 @@ button{
 /*======================FOOTER============================*/
 footer{
     background: #565454;
-    color: #dcbdbd;
+    color: #89b4ba;
     font-size: 14px;
     padding: 60px 0 20px;
 }
 footer p a{
-    color: #dcbdbd;
+    color: #ffffff;
 }
 footer h3{
-    color: #ffffff;
+    color: #fbfbfb;
     margin-bottom: 20px;
 }
 footer ul{
@@ -262,7 +262,7 @@ footer ul{
     padding-top: 20px;
 }
 .footer-k-2 p{
-    color: #dcbdbd;
+    color: #ffffff;
 }
 .footer-k-1{
     flex-basis: 33%;
